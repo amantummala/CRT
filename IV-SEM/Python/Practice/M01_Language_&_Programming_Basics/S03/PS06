@@ -1,0 +1,6 @@
+n = int(input())
+even = odd = 0:
+    if (n%2) == 0:
+    even += 1 
+n = sum(map(int,input()))
+print(n)
