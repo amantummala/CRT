@@ -1,8 +1,0 @@
-s = "python programming"
-print(s.capitalize())
-print(s.title())
-print(s)
-
-
-def Reverse_string(s):
-    pass

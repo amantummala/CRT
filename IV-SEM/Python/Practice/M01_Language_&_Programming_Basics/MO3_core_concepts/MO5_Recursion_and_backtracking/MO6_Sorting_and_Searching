@@ -1,5 +1,0 @@
-def Liner_search(nums,target):
-    pass
-
-li = list(map(int(input().split()))
-target    
