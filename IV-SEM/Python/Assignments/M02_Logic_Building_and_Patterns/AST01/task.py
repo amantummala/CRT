@@ -4,3 +4,7 @@ def count_digits(n: int) -> int:
 if __name__ == "__main__":
     n = int(input())
     print(count_digits(n))
+
+    def Binary_search(nums,target):
+        pass
+    
